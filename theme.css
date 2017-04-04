@@ -1,3 +1,11 @@
-H1 {
+h1 {
   font-family:Verdana;
+}
+
+ul {
+  font-family:Verdana;
+}
+
+body {
+  background-color:#669900;
 }
