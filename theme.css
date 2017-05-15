@@ -2,16 +2,16 @@ body {
   margin: 20px;
 }
 h1, h2, h3 {
-  font-family:"Verdana";
+  font-family:"Times New Roman Georgia";
   font-weight: 400;
 }
 
 p {
-  font-family:"Verdana";
+  font-family:"Times New Roman Georgia";
 }
 
 ul {
-    font-family:"Verdana";
+    font-family:"Times New Roman Georgia";
     list-style-type: none;
     margin: 0;
     padding: 0;
